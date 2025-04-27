@@ -18,8 +18,9 @@
   </style>
 </head>
 <body>
-  <h1>Bem vindo PEDRO ARTHUR NOGUEIRA CAZARATO DE SOUZA
-  <h3>Bem-vindo ao meu site!</h3>
+  <h1>Bem vindo</h1>
+  <h2>PEDRO ARTHUR NOGUEIRA CAZARATO DE SOUZA</h2>
+  <p><strong>Bem-vindo ao meu site!</strong></p>
   <p>Esse é meu primeiro site feito do zero!</p>
 </body>
 </html>
