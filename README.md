@@ -24,4 +24,4 @@
   <p>Esse é meu primeiro site feito do zero!</p>
 </body>
 </html>
-<img src="https://drive.google.com/uc?export=view&id=1MZ8hsFSrP_Cq7rK9PpCZGS86mPc3LGYw" alt="Minha foto no site">
+<img src="https://drive.google.com/uc?export=view&id=1MZmcWxz9FjiQhsguJ1ycUYflTKbT06Aa" alt="Minha foto no site">
