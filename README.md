@@ -31,7 +31,7 @@
   <p>Esse é meu primeiro site feito do zero!</p>
 
   <!-- AQUI VAI A IMAGEM -->
-  <img src="https://i.imgur.com/szsMIsP.jpg" alt="Minha foto no site">
+  <img src="https://imgur.com/a/dO2kx4v" alt="Minha foto no site">
 
 </body>
 </html>
