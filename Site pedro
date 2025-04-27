@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Meu Primeiro Site</title>
+  <style>
+    body {
+      background-color: #f0f0f0;
+      text-align: center;
+      font-family: Arial, sans-serif;
+    }
+    h1 {
+      color: #333;
+    }
+    p {
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h1>Bem vindo PEDRO ARTHUR NOGUEIRA CAZARATO DE SOUZA<h1>
+  <h3>Bem-vindo ao meu site!</h3>
+  <p>Esse é meu primeiro site feito do zero!</p>
+</body>
+</html>
