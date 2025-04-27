@@ -15,13 +15,23 @@
     p {
       color: #555;
     }
+    img {
+      width: 100%;  /* A imagem vai se ajustar à largura da tela */
+      max-width: 600px; /* Define a largura máxima da imagem */
+      height: auto; /* A altura se ajusta automaticamente */
+      border-radius: 15px;
+      margin-top: 20px;
+    }
   </style>
 </head>
 <body>
-  <h1>Bem vindo</h1>
+  <h1>Bem-vindo</h1>
   <h2>PEDRO ARTHUR NOGUEIRA CAZARATO DE SOUZA</h2>
   <p><strong>Bem-vindo ao meu site!</strong></p>
   <p>Esse é meu primeiro site feito do zero!</p>
+
+  <!-- AQUI VAI A IMAGEM -->
+  <img src="https://i.imgur.com/szsMIsP.jpg" alt="Minha foto no site">
+
 </body>
 </html>
-<img src="https://drive.google.com/uc?export=view&id=1MZmcWxz9FjiQhsguJ1ycUYflTKbT06Aa" alt="Minha foto no site">
